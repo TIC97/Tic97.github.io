@@ -11,7 +11,6 @@ html{
 }
 
 h1{
-   
     font-size: 3em;
     color: #f38fff;
 }
@@ -31,19 +30,20 @@ hr {
 	font-weight: 700;
 	border-radius: 300px;
 	text-transform: uppercase;
+	background-color: #f585e0;
 }
 
 .btn-primary{
-	background-color: #f1a1e2;
-	border-color: #f1a1e2;
+	background-color:#f585e0;
+	border-color: #f585e0;
 }
 
 .btn-primary:hover {
-	background-color: #f585e0;
-	border-color:  #f585e0;
+	background-color: #f56ddb;
+	border-color:  #f56ddb;
 	border-width: 4px;
 }
 
-.btn-xl{
+.btn-xl {
 	padding: 0.7rem 1.5rem;
 }
